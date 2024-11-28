@@ -1,0 +1,17 @@
+﻿{
+	"Folder": {
+		"Screenshot": "C:\\Projects\\Zimply\\TestCase\\Screenshots",
+		"ExcelResult": "C:\\Projects\\Zimply\\TestCase\\ExcelResult"
+	},
+	"Allabolag":{
+		"Url": "https://www.allabolag.se/"	
+	},
+	"File": {
+		"BefattningshavareResult": "C:\\Projects\\Zimply\\TestCase\\ExcelResult\\Befattningshavare_{0}_{1}.xlsx",
+		"AgeBefattningshavareResult":  "C:\\Projects\\Zimply\\TestCase\\ExcelResult\\AgeSorted_Befattningshavare_{0}_{1}.csv",
+		"ReverseBefattningshavareResult": "C:\\Projects\\Zimply\\TestCase\\ExcelResult\\Reversed_Befattningshavare_{0}_{1}.xlsx",
+		"FilterAgeBefattningshavareResult": "C:\\Projects\\Zimply\\TestCase\\ExcelResult\\FilterAge_Befattningshavare_{0}_{1}.xlsx",
+		"SourceExel": "Data/Input/Organizations.xlsx"
+	},
+	"MaxRetryNumber": 3
+}

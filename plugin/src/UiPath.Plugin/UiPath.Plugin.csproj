@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net6.0-windows7.0</TargetFrameworks>
+    <Company>Company</Company>
+    <Authors>Eray ACAR</Authors>
+    <PackageId>UiPath.Plugin.Zimply</PackageId>
+    <Product>UiPath.Plugin.Zimply</Product>
+    <Version>1.0.12</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+</Project>
